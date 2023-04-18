@@ -15,7 +15,7 @@ public class InsertirMesos {
         mesosDelAny.add("abril");
         mesosDelAny.add("maig");
         mesosDelAny.add("juny");
-        mesosDelAny.add("julion");
+        mesosDelAny.add("juliol");
         mesosDelAny.add("agost");
         mesosDelAny.add("setembre");
         mesosDelAny.add("octubre");
