@@ -3,6 +3,7 @@ package org.example;
 import org.example.exercici1.InsertirMesos;
 import org.example.exercici2.CalculoDni;
 import org.example.exercici2.DniMalFormulatException;
+import org.example.exercici3.ArrayIndexOutOfBoundsExc;
 
 public class Main {
 
@@ -27,6 +28,12 @@ public class Main {
             System.out.println(e.getMessage());
 
         }
+
+        // Exercici 3 --------------------------------------------------------------------------------------------------
+
+        ArrayIndexOutOfBoundsExc arrayIndexOutOfBoundsExc = new ArrayIndexOutOfBoundsExc();
+
+        arrayIndexOutOfBoundsExc.metodeQueLlencaUnArrayIndexOutOfBoundsException();
 
     }
 
